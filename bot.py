@@ -12,7 +12,7 @@ import requests
 from collections import defaultdict
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8535360146:AAEx7V1Uysxq5ljhGRYaIQdLubpBF_C5dgQ"
+BOT_TOKEN = "8500729375:AAHRlt-Iq0xSHkw9p_vKFkxxL5NW8RlYR9U"
 ADMIN_IDS = ["1725783398"]
 
 # Files
